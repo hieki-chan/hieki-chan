@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://imgur.com/8VQ2scO.gif">
+</div>
 
 <!--
 **hieki-chan/hieki-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +20,27 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Hieu</h1>
 <h3 align="center">💫 A Unity Game Developer</h3>
 
+<div>
+  <div align="center">
+    
+<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" align="right">
+  </div>
+
+```csharp
+About me:
+-------------------------------------------------------
+Name: Hieu.
+Loves: Anime, Games 🎮, Piano 🎹, Coding.
+
+Location: VietNam.
+Jobs: Student.
+
+MyAnimeList: https://myanimelist.net/profile/hieki_chan
+-------------------------------------------------------
+```
+</div>
+
+<div>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -35,7 +58,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hieki-chan&show_icons=true&locale=en" alt="hieki-chan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hieki-chan&" alt="hieki-chan" /></p>
+<p><img style = "display: block; margin-left: auto; margin-right: auto; width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hieki-chan&" alt="hieki-chan" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hieki-chan&limit=5&theme=flat&combine_all_yearly_contributions=true)
