@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://imgur.com/8VQ2scO.gif">
+<img src="https://media.giphy.com/media/ba7p7aBLzj5EaYXGRe/giphy.gif">
 </div>
-
 <!--
 **hieki-chan/hieki-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
