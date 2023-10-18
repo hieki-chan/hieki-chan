@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   <div align="center">
     
-<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" height = "480px" align="right">
+<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" height = "450px" align="right">
   </div>
 
 ```csharp
@@ -49,7 +49,7 @@ MyAnimeList: https://myanimelist.net/profile/hieki_chan
 <p align="left">
 <a href="https://twitter.com/hieudz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hieudz_" height="30" width="40" /></a>
 <a href="https://fb.com/hieki.chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieki.chan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uca1f-w3duujsrbkuc-eptda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uca1f-w3duujsrbkuc-eptda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hieki_chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uca1f-w3duujsrbkuc-eptda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
