@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   <div align="center">
     
-<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" height = "500px" align="right">
+<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" height = "480px" align="right">
   </div>
 
 ```csharp
