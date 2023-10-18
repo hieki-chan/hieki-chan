@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   <div align="center">
     
-<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" height = "500px" align="right">
   </div>
 
 ```csharp
@@ -32,8 +32,11 @@ About me:
 Name: Hieu.
 Loves: Anime, Games 🎮, Piano 🎹, Coding.
 
+
 Location: VietNam.
+
 Jobs: Student.
+
 
 MyAnimeList: https://myanimelist.net/profile/hieki_chan
 -------------------------------------------------------
@@ -50,9 +53,11 @@ MyAnimeList: https://myanimelist.net/profile/hieki_chan
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blender.svg/2048px-Blender.svg.png" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hieki-chan&show_icons=true&locale=en&layout=compact" alt="hieki-chan" /></p>
 
@@ -60,9 +65,9 @@ MyAnimeList: https://myanimelist.net/profile/hieki_chan
 
 <p><img style = "display: block; margin-left: auto; margin-right: auto; width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hieki-chan&" alt="hieki-chan" /></p>
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hieki-chan&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
