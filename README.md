@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/rh2WUcR.gif">
+<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 </div>
 
 <!--
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 About me:
 -------------------------------------------------------
 Name: Hieu.
-Loves: Anime, Games 🎮, Piano 🎹, Coding.
-
-
+Age: 18.
+Gender: Male.
 Location: VietNam.
-
+Languages: Vietnamese, English.
 Jobs: Student.
+Loves: Anime, Games 🎮, Piano 🎹, Coding.
 
 
 MyAnimeList: https://myanimelist.net/profile/hieki_chan
