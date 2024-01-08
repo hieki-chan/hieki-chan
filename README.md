@@ -79,10 +79,11 @@ Loves: Anime, Games 🎮, Piano 🎹, Coding.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiekiChan) 
-  
+
   <!--PROFILE VIEWS [![](https://visitcount.itsvg.in/api?id=hieki-chan&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- MEME-->
-<img src="https://randommeme-five.vercel.app/" style="height: 450px; align:right"/>
+##
+<img src="https://randommeme-five.vercel.app/" style="height: 450px; align:left"/>
