@@ -39,9 +39,6 @@ Location: VietNam.
 Languages: Vietnamese, English.
 Jobs: Student.
 Loves: Anime, Games 🎮, Piano 🎹, Coding.
-
-
-MyAnimeList: https://myanimelist.net/profile/hieki_chan
 -------------------------------------------------------
 ```
 </div>
