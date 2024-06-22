@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋<!--, I'm Hieu--></h1>
-<h3 align="center">💫 A Unity Game Developer</h3>
+<h1 align="center">Hi there 👋, I'm Hieu</h1>
+<h3 align="center">💫 A Game Developer</h3>
 
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <!--<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif">-->
   </div>
   
-<!--
+
 ```csharp
 About me:
 -------------------------------------------------------
@@ -38,10 +38,10 @@ Gender: Male.
 Location: VietNam.
 Languages: Vietnamese, English.
 Jobs: Student.
-Loves: Anime, Games 🎮, Piano 🎹, Coding.
+Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 -------------------------------------------------------
 ```
--->
+
 </div>
 
 <!--
