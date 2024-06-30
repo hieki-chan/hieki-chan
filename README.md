@@ -85,6 +85,7 @@ Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 
   <!--PROFILE VIEWS [![](https://visitcount.itsvg.in/api?id=hieki-chan&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
-<!-- MEME-->
+<!-- MEME
 ##
 <img src="https://randommeme-five.vercel.app/" style="height: 450px; align:left"/>
+-->
