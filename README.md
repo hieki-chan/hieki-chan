@@ -34,9 +34,9 @@ About me:
 -------------------------------------------------------
 Name: Hieu.
 Age: 19.
-Gender: Male.
-Location: VietNam.
-Languages: Vietnamese, English.
+Gender: Male or Female, sometimes Gay.
+Location: Viet Nam.
+Languages: Vietnamese, English, C# :) .
 Jobs: Student.
 Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 -------------------------------------------------------
