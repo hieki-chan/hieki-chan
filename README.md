@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi there 👋, I'm Hieu</h1>
 <h3 align="center">💫 A Game Developer</h3>
 
+-->
 
 
 <div>
@@ -27,16 +27,15 @@ Here are some ideas to get you started:
   <div align="right">
     <!--<img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif">-->
   </div>
-  
 
 ```csharp
 About me:
 -------------------------------------------------------
 Name: Hieu.
 Age: 19.
-Gender: Male or Female, sometimes Gay.
+Gender: ?.
 Location: Viet Nam.
-Languages: Vietnamese, English, C# :) .
+Languages: Vietnamese, English.
 Jobs: Student.
 Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 -------------------------------------------------------
@@ -62,8 +61,9 @@ Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 </p>
 -->
 
-<!-- TOP PROGRAMMING LANGUAGE -->
+<!-- TOP PROGRAMMING LANGUAGE 
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hieki-chan&show_icons=true&locale=en&layout=compact" alt="hieki-chan" /></p></div>
+-->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hieki-chan&show_icons=true&locale=en" alt="hieki-chan" /></p>
@@ -78,11 +78,11 @@ Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
+
 
   ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiekiChan) 
-
+-->
   <!--PROFILE VIEWS [![](https://visitcount.itsvg.in/api?id=hieki-chan&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- MEME
