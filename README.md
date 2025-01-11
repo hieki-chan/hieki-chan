@@ -61,13 +61,10 @@ Loves: Anime 🌸, Games 🎮, Piano 🎹, Coding 👨🏻‍💻.
 </p>
 -->
 
-<!-- TOP PROGRAMMING LANGUAGE 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hieki-chan&show_icons=true&locale=en&layout=compact" alt="hieki-chan" /></p></div>
--->
+<div><p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hieki-chan&show_icons=true&locale=en&layout=compact" alt="hieki-chan" /></p></div>
+<p>&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=hieki-chan&show_icons=true&locale=en" alt="hieki-chan" /></p>
 
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hieki-chan&show_icons=true&locale=en" alt="hieki-chan" /></p>
-
 <p><img style = "display: block; margin-left: auto; margin-right: auto; width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hieki-chan&" alt="hieki-chan" /></p>
 -->
 
